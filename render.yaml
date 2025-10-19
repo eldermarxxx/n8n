@@ -20,7 +20,7 @@ services:
       - key: DB_POSTGRESDB_SSL_REJECT_UNAUTHORIZED
         value: "false"
       - key: N8N_ENCRYPTION_KEY
-        value: gerar-uma-chave-grande-aqui
+        value: 3ad5e2fdc0bcaaa9338a699a8323702de2a1359a27006d2c6a1d96db1ae808fc
       - key: N8N_BASIC_AUTH_ACTIVE
         value: "true"
       - key: N8N_BASIC_AUTH_USER
